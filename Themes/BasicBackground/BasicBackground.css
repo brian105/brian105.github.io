@@ -1,8 +1,8 @@
 //META{"name":"Test","description":"Test","author":"Brian","version":"1.0.0"}*//{}
 
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BetterDocsBlock.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/ThemeDevBadge.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
+@import url(https://brian105.github.io/BetterDiscordAddons/Themes/BetterDocsBlock.css);
+@import url(https://brian105.github.io/BetterDiscordAddons/Themes/ThemeDevBadge.css);
+@import url(https://brian105.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
 	--dtransparencyalpha:			0,0,0;
